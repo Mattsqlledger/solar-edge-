@@ -19,9 +19,10 @@ This Streamlit dashboard visualizes solar production data using the SolarEdge Mo
 ## 🚀 How to Use
 
 1. Clone this repository or upload it to [Streamlit Cloud](https://streamlit.io/cloud)
-2. Add your SolarEdge **API Key** and **Site ID** in the Streamlit sidebar
-3. Select your date range
-4. Click "Fetch Data" to generate visualizations
+2. Or go to https://k8nqdbwc4mpaiu4r8faewc.streamlit.app
+3. Add your SolarEdge **API Key** and **Site ID** in the Streamlit sidebar
+4. Select your date range
+5. Click "Fetch Data" to generate visualizations
 
 ## 📦 Requirements
 
